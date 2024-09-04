@@ -2,3 +2,4 @@ Hello
 
 Another file
 New feature 2
+another feature
